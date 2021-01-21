@@ -1,9 +1,35 @@
-                         
+                                                            
+                                                              
+(  _  )(  _ \( ___)( \( )  (  _ \(  )(  )(  )  (  )  ( ___)(_  _)          
+ )(_)(  )___/ )__)  )  (    ) _ < )(__)(  )(__  )(__  )__)   )(            
+(_____)(__)  (____)(_)\_)  (____/(______)(____)(____)(____) (__)           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+   __   _  _    _  _  ____  __    ____  ____  ____    __  __  _____  ____  
+  /__\ ( \/ )  ( \/ )(_  _)(  )  (  _ \(_  _)(_   )  (  \/  )(  _  )(  _ \ 
+ /(__)\ \  /    \  /  _)(_  )(__  )(_) )_)(_  / /_    )    (  )(_)(  )(_) )
+(__)(__)(__)    (__) (____)(____)(____/(____)(____)  (_/\/\_)(_____)(____/                                   
+
+
+
+
+                                                       
+                
+                                                                      
+  
 Plugins Kısmına Otomatik Proksy Cekici Eklenmiştir.
+
+
 Güle Güle kullanınız.
+
 Bizi Bu Adresten takip Edebilirsiniz. 
+
 Telegram :Bilisimindex
+
               Lütfen Bizi ziyaret edin.
+              
 OpenBullet is a webtesting suite that allows to perform requests towards a target webapp and offers a lot of tools to work with the results. This software can be used for **scraping** and **parsing data**, automated **pentesting**, unit testing through **selenium** and much more.
 **IMPORTANT!** Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is **illegal!** The developer will not be held responsible for improper use of this software.
 ![Runner](https://i.resimyukle.xyz/TCAPA1.png)
