@@ -1,3 +1,28 @@
+(  _  )(  _ \( ___)( \( )  (  _ \(  )(  )(  )  (  )  ( ___)(_  _)          
+ )(_)(  )___/ )__)  )  (    ) _ < )(__)(  )(__  )(__  )__)   )(            
+(_____)(__)  (____)(_)\_)  (____/(______)(____)(____)(____) (__)           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+   __   _  _    _  _  ____  __    ____  ____  ____    __  __  _____  ____  
+  /__\ ( \/ )  ( \/ )(_  _)(  )  (  _ \(_  _)(_   )  (  \/  )(  _  )(  _ \ 
+ /(__)\ \  /    \  /  _)(_  )(__  )(_) )_)(_  / /_    )    (  )(_)(  )(_) )
+(__)(__)(__)    (__) (____)(____)(____/(____)(____)  (_/\/\_)(_____)(____/                                   
+
+
+Plugins Kısmına Otomatik Proksy Cekici Eklenmiştir.
+
+
+Güle Güle kullanınız.
+
+Bizi Bu Adresten takip Edebilirsiniz. 
+
+Telegram :Bilisimindex
+
+              Lütfen Bizi ziyaret edin.
+
+
 
 OpenBullet is a webtesting suite that allows to perform requests towards a target webapp and offers a lot of tools to work with the results. This software can be used for **scraping** and **parsing data**, automated **pentesting**, unit testing through **selenium** and much more.
 
@@ -17,3 +42,5 @@ OpenBullet is a webtesting suite that allows to perform requests towards a targe
 # License
 This software is licensed under the MIT License.
 
+                                                
+                                                              
